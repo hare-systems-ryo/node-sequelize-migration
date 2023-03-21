@@ -1,0 +1,24 @@
+{
+  "name": "node-sequelize-migration",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "edit": "webpack -w",
+    "main": "node dist/main.js"
+  },
+  "volta": {
+    "node": "18.14.0",
+    "npm": "9.3.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "dayjs": "^1.11.7",
+    "mysql2": "^3.2.0",
+    "path": "^0.12.7",
+    "sequelize": "^6.29.3",
+    "sequelize-cli": "^6.6.0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "development": {
+    "host": "localhost",
+    "port": "3306",
+    "username": "root",
+    "password": "root",
+    "database": "test",
+    "dialect": "mysql",
+    "timezone": "+09:00",
+    "operatorsAliases": 0,
+    "logging": false
+  },
+  "staging": {
+    "host": "localhost",
+    "port": "3306",
+    "username": "root",
+    "password": "root",
+    "database": "test",
+    "dialect": "mysql",
+    "timezone": "+09:00",
+    "operatorsAliases": 0,
+    "logging": false
+  }
+}
